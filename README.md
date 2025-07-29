@@ -32,27 +32,6 @@ Create a .env file to store your credentials:
 
 - `MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/doctor-appointment`
 
-## 3️⃣ Download npm packages and Vite tool:
-
-- For the backend side follow these steps: ⬇️
-
-1. Run `npm install` in the project directory to install the required dependencies.
-2. Run `npm run server` to get the project started.
-3. Open [http://localhost:4000](http://localhost:4000) (or the address shown in your console) in your web browser to view the app.
-
-- For the frontend side follow these steps: ⬇️
-
-1. Run `cd doctor-appointment-website/frontend/` should go folder field.
-2. Run `npm install` in the project directory to install the required dependencies.
-3. Run `npm run dev` to get the project started.
-4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
-
-- For the admin side follow these steps: ⬇️
-
-1. Run `cd doctor-appointment-website/admin/` should go folder field.
-2. Run `npm install` in the project directory to install the required dependencies.
-3. Run `npm run dev` to get the project started.
-4. Open [http://localhost:5174](http://localhost:5174) (or the address shown in your console) in your web browser to view the app.
 
 ## 🌍 How it looks
 
